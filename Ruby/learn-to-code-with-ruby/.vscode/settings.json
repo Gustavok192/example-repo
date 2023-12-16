@@ -14,7 +14,7 @@
   "files.autoSave": "onFocusChange",
   "ruby.useBundler": true,
   "ruby.useLanguageServer": true,
-  "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "workbench.colorTheme": "Winter is Coming (Dark Black - No Italics)",
   "workbench.editor.enablePreview": false,
   "workbench.panel.defaultLocation": "right",
   "workbench.editor.enablePreviewFromQuickOpen": false,
