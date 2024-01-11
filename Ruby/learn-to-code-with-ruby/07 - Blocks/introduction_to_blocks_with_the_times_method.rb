@@ -18,3 +18,18 @@ def print_five_times
   5.times { print "Hello" }
 end
 puts print_five_times
+
+def money_printer(amount)
+  amount.times { print "Money" }
+end
+
+money_printer(3)
+puts
+money_printer(5)
+
+Def increments_of_two(amount)
+    amount.times { print "0" }
+    
+end
+
+increments_of_two(0)
