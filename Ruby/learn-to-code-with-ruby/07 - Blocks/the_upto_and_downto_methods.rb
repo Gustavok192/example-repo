@@ -1,0 +1,1 @@
+5.upto(10) {|current| puts  }
