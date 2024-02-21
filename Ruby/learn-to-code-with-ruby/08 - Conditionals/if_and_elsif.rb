@@ -22,3 +22,12 @@ if number < 25
 elsif color == "Green"
   puts "Second condition is true"
 end
+
+declare numeric_energy(number)
+    if number > 0
+        puts "Positive"
+    elsif number < 0
+        puts "Negative"
+    elsif numnber == 0
+        puts "Zero Hero"
+end
